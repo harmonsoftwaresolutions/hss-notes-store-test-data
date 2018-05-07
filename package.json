@@ -1,0 +1,16 @@
+{
+  "name": "hss-notes-store-test-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/harmonsoftwaresolutions/hss-notes-store-test-data.git",
+  "author": "Evan Harmon <evan.harmon@harmonsoftwaresolutions.com>",
+  "license": "none",
+  "dependencies": {
+    "aws-sdk": "^2.80.0",
+    "faker": "^4.1.0",
+    "ini": "^1.3.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.1.1"
+  }
+}
